@@ -1,1 +1,53 @@
-voila alors la voiture de l homme 
+voila alors la voiture de l homme
+ici on vera si ca marhe ou pas 
+line 3 and last
+add line 4
+
+
+
+
+
+Discover interesting projects and people to populate your personal news feed.
+
+Your news feed helps you keep up with recent activity on repositories you watch and people you follow.
+© 2019 GitHub, Inc.
+
+    Blog
+    About
+    Shop
+    Contact GitHub
+    Pricing
+
+    API
+    Training
+    Status
+    Security
+
+    Terms
+    Privacy
+    Help
+
+Quick setup — if you’ve done this kind of thing before
+or
+
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
+…or create a new repository on the command line
+
+echo "# Gabonrepo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:bafang1981/Gabonrepo.git
+git push -u origin master
+
+…or push an existing repository from the command line
+
+git remote add origin git@github.com:bafang1981/Gabonrepo.git
+git push -u origin master
+
+…or import code from another repository
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+ProTip! Use the URL for this page when adding GitHub as a remote.
+
+   
